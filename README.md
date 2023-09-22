@@ -40,4 +40,4 @@ Once you run the application, you can view the list of fee reports and add new f
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
